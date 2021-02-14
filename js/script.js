@@ -45,13 +45,17 @@ let blnMayWeContactYou;
 /*
 //STEP 5
 let strFirstName;
-strFirstName = 'Kristen';
+let strLastName;
+let strAddress;
+strFirstName = 'Jane';
+strLastName = 'Doe';
+strAddress = '100 Main Street';
 
-let strLastName = prompt('What is your last name?');
+let strFirstName = 'Jane';
+let strLastName = 'Doe';
+let strAddress = '100 Main Street';
 
-let intAge = [];
-intAge[0] = 10;
-intAge[1] = 24;
+let strFirstName = 'Jane', strLastName = 'Doe', strAddress = '100 Main Street';
 */
 
 
